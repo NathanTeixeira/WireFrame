@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #05001a;
+    color: white;
+  }
+  
+/*FIXME: arrumar as cores para as da commit */
+
+  a {
+    text-decoration: none;
+  }

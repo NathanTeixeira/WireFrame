@@ -1,0 +1,37 @@
+.slide{
+  padding: 5px;
+  display: flex;
+  margin: 60px 60px;
+}
+
+.slide ul{
+  list-style: none;
+}
+
+.slide li{
+  margin: 13px 0;
+}
+
+.slide p{
+  font-size: 22px;
+  text-align: justify;
+}
+
+.slide img{
+  margin-left: 200px;
+}
+
+.slide nav{
+  padding: 10px
+}
+
+.slide a {
+  color: #0059ff;
+  padding: 1rem 0.5rem;
+  font-weight: bold;
+}
+
+.slide a:hover {
+  background-color: transparent;
+  color: #4ebef1;
+}
